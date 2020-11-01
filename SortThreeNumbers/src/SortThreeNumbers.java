@@ -47,6 +47,6 @@ public class SortThreeNumbers {
 		
 		// Display result to the user in increasing order
 		System.out.println(num1 + " " + num2 + " " + num3);
+		
 	}// end method
 }// end class
-
